@@ -5,7 +5,7 @@
 
   <!-- Social Links -->
   <a href="https://minqar-515.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Portfolio"/>
   </a>
   <a href="https://x.com/albalkhi158" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)"/>
