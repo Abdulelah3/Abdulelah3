@@ -89,6 +89,6 @@
 
 <div align="center">
   <a href="https://github.com/Abdulelah3">
-    <img src="https://streak-stats.demolab.com/?user=Abdulelah3&theme=dark" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abdulelah3&show_icons=true&theme=radical" alt="GitHub Stats"/>
   </a>
 </div>
