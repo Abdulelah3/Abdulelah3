@@ -1,10 +1,19 @@
-<div align="center">
-  <h1>👋 Welcome to my Profile | أهلاً بك في حسابي</h1>
-  <h2>عبدالإله بلخي | Abdulelah Balkhi</h2>
-  <h3>Software Developer & Cybersecurity Researcher | مطور برمجيات وباحث أمن سيبراني 🇸🇦</h3>
-  <p>Owner of <b>Minqar (منقار)</b> Brand — Professional Tech Tools & Software Solutions.</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h1>👋 Welcome!</h1>
+      <h3>Software Developer & Cybersecurity Researcher</h3>
+      <p>Owner of <b>Minqar</b> Brand — Professional Tech Tools & Software Solutions.</p>
+    </td>
+    <td width="50%" align="center" dir="rtl">
+      <h1>أهلاً بك! 👋</h1>
+      <h3>مطور برمجيات وباحث أمن سيبراني 🇸🇦</h3>
+      <p>صاحب علامة <b>منقار</b> — أدوات تقنية احترافية وحلول برمجية.</p>
+    </td>
+  </tr>
+</table>
 
-  <!-- Social Links -->
+<div align="center">
   <a href="https://minqar-515.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Portfolio"/>
   </a>
@@ -89,6 +98,6 @@
 
 <div align="center">
   <a href="https://github.com/Abdulelah3">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abdulelah3&show_icons=true&theme=radical" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abdulelah3&show_icons=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00" alt="GitHub Stats"/>
   </a>
 </div>
