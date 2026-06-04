@@ -16,17 +16,59 @@
   </a>
 </div>
 
----
+<br>
 
-### 🚀 About Me | نبذة شخصية
-- 🔭 **Development (التطوير):** I build professional technical tools that solve real problems (Websites, Discord bots, Security tools, and **Platforms in general**).  
-  *أعمل على بناء أدوات تقنية احترافية تحل مشاكل حقيقية (مواقع ويب، بوتات Discord، أدوات أمنية، و **منصات بشكل عام**).*
-- 🔐 **Cybersecurity (الأمن السيبراني):** Researcher passionate about network and system security.  
-  *باحث ومهتم في أمن الشبكات والأنظمة.*
-- 💼 **Experience (الخبرة):** Managing "Minqar" ecosystem, developing 14+ specialized Discord bots, and building web platforms using React & HTML/CSS/JS.  
-  *بناء وإدارة منظومة "منقار"، وتطوير أكثر من 14 بوت Discord متخصص، وتطوير منصات ويب احترافية.*
+<table width="100%">
+  <tr>
+    <td width="50%" align="left" valign="top">
+      <h3>🚀 About Me</h3>
+      <ul>
+        <li><b>Development:</b> I build professional technical tools (Websites, Discord bots, Security tools, and Platforms in general).</li>
+        <li><b>Cybersecurity:</b> Researcher passionate about network and system security.</li>
+        <li><b>Experience:</b> Managing "Minqar" ecosystem, developing 14+ specialized Discord bots, and building web platforms using React & HTML/CSS/JS.</li>
+      </ul>
+    </td>
+    <td width="50%" align="right" dir="rtl" valign="top">
+      <h3>🚀 نبذة شخصية</h3>
+      <ul dir="rtl">
+        <li><b>التطوير:</b> أعمل على بناء أدوات تقنية احترافية تحل مشاكل حقيقية (مواقع ويب، بوتات Discord، أدوات أمنية، ومنصات بشكل عام).</li>
+        <li><b>الأمن السيبراني:</b> باحث ومهتم في أمن الشبكات والأنظمة.</li>
+        <li><b>الخبرة:</b> بناء وإدارة منظومة "منقار"، وتطوير أكثر من 14 بوت Discord متخصص، وتطوير منصات ويب بـ React و HTML/CSS/JS.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
----
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="left" valign="top">
+      <h3>💼 Featured Projects</h3>
+      <ul>
+        <li>📜 <a href="https://khebrat-platform.vercel.app" target="_blank"><b>Khebrat Platform:</b></a> Experience certificates issuing & authentication system.</li>
+        <li>🕋 <a href="https://hajjopspro.vercel.app" target="_blank"><b>HajjOpsPro:</b></a> Comprehensive Hajj operations management system.</li>
+        <li>🏋️ <a href="https://iron-body1.netlify.app/" target="_blank"><b>Iron Body Elite:</b></a> Professional fitness platform built with React.</li>
+        <li>🛒 <a href="https://minqar1.netlify.app/" target="_blank"><b>Minqar Shop:</b></a> E-commerce store for selling bots and source codes.</li>
+        <li>🤖 <b>My-Store:</b> A collection of 14+ specialized Discord bots.</li>
+        <li>📡 <b>Minqar WiFi Auditor:</b> Professional Python cybersecurity tool for network auditing.</li>
+      </ul>
+    </td>
+    <td width="50%" align="right" dir="rtl" valign="top">
+      <h3>💼 أبرز الأعمال والمشاريع</h3>
+      <ul dir="rtl">
+        <li>📜 <a href="https://khebrat-platform.vercel.app" target="_blank"><b>منصة خبرات:</b></a> أداة احترافية لإصدار وتوثيق شهادات الخبرة بباركود.</li>
+        <li>🕋 <a href="https://hajjopspro.vercel.app" target="_blank"><b>نظام إدارة الحج:</b></a> نظام احترافي وشامل لإدارة عمليات الحج.</li>
+        <li>🏋️ <a href="https://iron-body1.netlify.app/" target="_blank"><b>Iron Body Elite:</b></a> منصة لياقة بدنية احترافية مبنية بـ React.</li>
+        <li>🛒 <a href="https://minqar1.netlify.app/" target="_blank"><b>متجر منقار:</b></a> متجر إلكتروني احترافي لبيع البوتات والأكواد.</li>
+        <li>🤖 <b>My-Store:</b> مجموعة تضم أكثر من 14 بوت Discord متخصص.</li>
+        <li>📡 <b>Minqar WiFi Auditor:</b> أداة أمن سيبراني احترافية بـ Python لفحص أمان الشبكات.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ### 💻 Tech Stack | التقنيات والمهارات
 
@@ -40,17 +82,6 @@
   <a href="https://discord.js.org/" target="_blank"><img src="https://img.shields.io/badge/Discord.js-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js"/></a>
   <a href="https://kali.org/" target="_blank"><img src="https://img.shields.io/badge/CyberSecurity-%23000000.svg?style=for-the-badge&logo=kalilinux&logoColor=white" alt="CyberSecurity"/></a>
 </div>
-
----
-
-### 💼 Featured Projects | أبرز الأعمال والمشاريع
-
-- 📜 **[Khebrat Platform (منصة خبرات)](https://khebrat-platform.vercel.app):** A professional tool for issuing and authenticating experience certificates using barcodes. | *أداة احترافية لإصدار وتوثيق شهادات الخبرة بباركود لضمان المصداقية.*
-- 🕋 **[HajjOpsPro (نظام إدارة الحج)](https://hajjopspro.vercel.app):** A comprehensive and professional Hajj operations management system for Holiday Inn Bakkah. | *نظام احترافي وشامل لإدارة عمليات الحج (Holiday Inn Bakkah).*
-- 🛠️ **[Minqar Dev Suite](https://minqar-515.netlify.app):** Comprehensive developer tools platform. | *منصة أدوات مطورين متكاملة.*
-- 🛒 **[Minqar Shop](https://minqar-515.netlify.app):** E-commerce store for selling bots and source codes. | *متجر إلكتروني احترافي لبيع البوتات والأكواد.*
-- 📡 **Minqar WiFi Auditor:** Professional Python cybersecurity tool for network auditing. | *أداة أمن سيبراني احترافية بـ Python لفحص أمان الشبكات.*
-- 🤖 **My-Store:** A collection of 14+ specialized Discord bots. | *مجموعة تضم أكثر من 14 بوت Discord متخصص.*
 
 ---
 
