@@ -58,7 +58,7 @@
         <li>📜 <a href="https://khebrat-platform.vercel.app" target="_blank"><b>Khebrat Platform:</b></a> Experience certificates issuing & authentication system.</li>
         <li>🕋 <a href="https://hajjopspro.vercel.app" target="_blank"><b>HajjOpsPro:</b></a> Comprehensive Hajj operations management system.</li>
         <li>🏋️ <a href="https://iron-body1.netlify.app/" target="_blank"><b>Iron Body Elite:</b></a> Professional fitness platform built with React.</li>
-        <li>🛒 <a href="https://minqar1.netlify.app/" target="_blank"><b>Minqar Shop:</b></a> E-commerce store for selling bots and source codes.</li>
+        <li>🛒 <a href="https://minqar-store.vercel.app/ar" target="_blank"><b>Minqar Shop:</b></a> E-commerce store for selling bots and source codes.</li>
         <li>🤖 <b>My-Store:</b> A collection of 14+ specialized Discord bots.</li>
         <li>📡 <b>Minqar WiFi Auditor:</b> Professional Python cybersecurity tool for network auditing.</li>
       </ul>
