@@ -69,7 +69,7 @@
         <li>📜 <a href="https://khebrat-platform.vercel.app" target="_blank"><b>منصة خبرات:</b></a> أداة احترافية لإصدار وتوثيق شهادات الخبرة بباركود.</li>
         <li>🕋 <a href="https://hajjopspro.vercel.app" target="_blank"><b>نظام إدارة الحج:</b></a> نظام احترافي وشامل لإدارة عمليات الحج.</li>
         <li>🏋️ <a href="https://iron-body1.netlify.app/" target="_blank"><b>Iron Body Elite:</b></a> منصة لياقة بدنية احترافية مبنية بـ React.</li>
-        <li>🛒 <a href="https://minqar1.netlify.app/" target="_blank"><b>متجر منقار:</b></a> متجر إلكتروني احترافي لبيع البوتات والأكواد.</li>
+        <li>🛒 <a href="https://minqar-store.vercel.app/ar" target="_blank"><b>متجر منقار:</b></a> متجر إلكتروني احترافي لبيع البوتات والأكواد.</li>
         <li>🤖 <b>My-Store:</b> مجموعة تضم أكثر من 14 بوت Discord متخصص.</li>
         <li>📡 <b>Minqar WiFi Auditor:</b> أداة أمن سيبراني احترافية بـ Python لفحص أمان الشبكات.</li>
       </ul>
